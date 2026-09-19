@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=GOWTHAM%20MEKALA&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn&color=0:0F172A,50:0EA5E9,100:38BDF8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=GOWTHAM%20MEKALA&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&color=0:0F172A,50:0369A1,100:38BDF8" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Electrical+%26+Electronic+Engineering+Graduate;Systems+Engineering+%7C+Design+Engineering;EV+Systems+%7C+Battery+%7C+Charging;Electrical+Design+%7C+AutoCAD;Vehicle+Systems+%7C+Technical+Engineering+Documentation" alt="Engineering focus animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=950&lines=Electrical+%26+Electronic+Engineering+Graduate;Systems+Engineering+%7C+Design+Engineering;EV+Systems+%7C+Battery+%7C+Charging;Electrical+Design+%7C+AutoCAD;Vehicle+Systems+%7C+Technical+Engineering+Documentation" alt="Engineering focus animation" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## 👨‍🔧 About Me
 
-I am an **Electrical & Electronic Engineering graduate** with an interest in **systems engineering, design engineering, electric vehicle technology, battery systems, charging infrastructure, electrical design, and CAD**.
+I am an **Electrical & Electronic Engineering graduate** with an interest in **Systems Engineering, Design Engineering, Electric Vehicle Technology, Battery Systems, Charging Infrastructure, Electrical Design, and CAD**.
 
 My focus is on developing practical engineering capability by understanding how **electrical, electronic, power, control, and vehicle subsystems** work together as complete systems.
 
@@ -104,7 +104,9 @@ I am particularly interested in **EV and vehicle electrical systems, battery arc
                            DESIGN REVIEW
 ```
 
-> **Think in systems. Design with structure. Document with clarity.**
+<p align="center">
+  <strong>Think in systems. Design with structure. Document with clarity.</strong>
+</p>
 
 ---
 
